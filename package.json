@@ -1,7 +1,7 @@
 {
   "name": "react-typescript",
   "version": "1.0.0",
-  "homepage":"https://Lucas-Vieira-R.github.io/Drum_Machine_FCC",
+  "homepage":"https://lucas-vieira-r.github.io/Drum_Machine_FCC/",
   "type": "module",
   "description": "React TypeScript on Replit, using Vite bundler",
   "scripts": {
