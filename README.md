@@ -13,4 +13,4 @@ I built the project using **React** and the `useState()` hook to display the sou
 This was a fun project to make, learn a lot about the `useState()` hook to functional components cause i leraned React the old school way, with class components. I also worked a lot with DOM manipulation and console debugging. With this project i started to think in a React way, more than in a JS vanilla way.
 
 ---
-#### The app was deployed with Vercel, and you can check it [here](https://drum-machine-fcc-beta.vercel.app).
+#### The app was deployed with Vercel, and you can check it [here](https://drum-machine-ngky7x5sp-lucas-vieira-r.vercel.app).
