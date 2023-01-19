@@ -14,4 +14,4 @@ This was a fun project to make, learn a lot about the `useState()` hook to funct
 
 ---
 #### The app was deployed with Vercel, and you can check it [here](https://drum-machine-ngky7x5sp-lucas-vieira-r.vercel.app).
-<a href="https://drum-machine-ngky7x5sp-lucas-vieira-r.vercel.app" target="_blank">Here</a>
+<span><a href="https://drum-machine-ngky7x5sp-lucas-vieira-r.vercel.app" target="_blank">Here</a></span>
